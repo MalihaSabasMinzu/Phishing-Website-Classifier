@@ -1,0 +1,6 @@
+phishing-website-detector-backend/node_modules
+phishing_complete_dataset_preprocessed_sample.csv
+phishing_complete_dataset_preprocessed.csv
+phishing_complete_dataset.csv
+training/preprocessed_dataset.csv
+phishing-website-detector-frontend/node_modules

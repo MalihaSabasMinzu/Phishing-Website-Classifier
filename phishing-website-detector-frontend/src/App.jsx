@@ -16,7 +16,7 @@ function App() {
     setError('');
     try {
       // Replace with your backend endpoint
-      const response = await fetch('https://ideal-eureka-gv4gvrv6wpg2wpgp-3000.app.github.dev/predict-url', {
+      const response = await fetch('http://localhost:3000/predict-url', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
